@@ -1,0 +1,28 @@
+button {
+    border-radius: 150px;
+    color: teal;
+    border-color: teal;
+    width: 300px;
+    font-size: 50px;
+}
+
+.button2 {
+    color: white;
+    background-color:  turquoise;
+    border-color: transparent;
+    width: 60px;
+}
+
+#button3 {
+    color: white;
+    background-color: blue;
+    border-color: black;
+    border-radius: 0;
+    box-shadow: 10px 10px black;
+    width: 400px; 
+}
+
+div {
+    height: 100px;
+
+}
